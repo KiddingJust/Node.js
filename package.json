@@ -1,0 +1,23 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Node.js Server Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app_fs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiddingJust/Node.js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kiddingJust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiddingJust/Node.js/issues"
+  },
+  "homepage": "https://github.com/KiddingJust/Node.js#readme"
+}
